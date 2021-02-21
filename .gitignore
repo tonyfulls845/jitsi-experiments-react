@@ -1,0 +1,12 @@
+# Env
+.env
+
+npm-debug.log
+yarn-error.log
+
+# Modules
+/node_modules
+
+# Public dir
+/public
+

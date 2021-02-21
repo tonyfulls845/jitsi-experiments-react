@@ -1,0 +1,1 @@
+export { useJitsiMeetController } from './useJitsiMeetController';

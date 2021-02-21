@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "target": "es5",
+        "allowJs": true,
+        "esModuleInterop": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "lib": ["dom", "es6", "webworker"]
+    }
+}
